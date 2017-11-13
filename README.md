@@ -4,15 +4,14 @@
 
 
 
-### Proyecto: AMPERSAND
-[ES]
+### Proyecto AMPERSAND
 Ampersand es un proyecto de realidad virtual que pretende escapar de los convencionalismos de los videojuegos actuales. Es un juego de toma de decisiones que se comporta como una experiencia cinematográfica, empujándote cada vez más a prestar atención a los pequeños detalles y abandonar la ideología arcade.
 
 El diseño meticulosamente detallado de sus bastas extensiones pretende transmitirte el amor por el arte de la fotografía. Eso y sus pausados e interesantes diálogos entre personajes te hará volver a este juego en busca de paz. 
 
 Este juego es un shooter que te insta a soltar las armas y, simplemente, relajarte.
 
-[EN]
+### AMPERSAND project
 AMPERSAND is a virtual reality project that tries to escape from the conventions of current videogames. It is a decision-making game that allows you to make a cinematic experience, to push more and more attention to small details and abandon the ideology of the arcade.
 
 The meticulously detailed design of its vast extensions is a good translation of the love for the art of photography. That and its slow and interesting dialogues between characters return you to this game in search of peace.
@@ -20,7 +19,6 @@ The meticulously detailed design of its vast extensions is a good translation of
 This game is a trigger that lets you let go of your weapons and simply relax.
 
 ### Caracteristicas
-[ES]
 Dificultad recreada:
 Su fidelidad respecto a la vida real hará que situaciones típicas de cualquier otro shooter como puede ser un tiroteo entre tres sujetos, aquí se convierta en un suplicio dado el limitado tamaño de los cargadores, tu precisión real sin ningún tipo de ayuda y la recarga física de las armas. Todo esto pretendiendo ser no un juego difícil, sino un juego justo.
 
@@ -33,7 +31,7 @@ Hay un limite de acciones a llevar a cabo antes de que el juego finalice. La fac
 Trama interesante:
 Averiguar el origen del conflicto entre estas dos facciones es el objetivo real del juego. Toda la trama estará oculta en el contexto del entorno mediante su apartado artístico o en las menciones puntuales de algunos personajes. Todo ello contribuye a generar una atmósfera mucho más creíble, pero también a motivar el interés del jugador por indagar por su cuenta en la historia, sin hacer una burda exposición.
 
-[EN]
+### Features
 Recreated difficulty:
 Their fidelity to real life will make typical situations of any other shooter such as a shootout between three subjects, here it becomes an ordeal, given the limited size of the chargers, your real accuracy without any help and recharge physics of weapons. All this pretending to be not a difficult game, but a fair game.
 
@@ -46,7 +44,7 @@ There is a limit of actions to be carried out before the game ends. The faction 
 Interesting plot:
 Find out the origin of the conflict between these two factions is the real goal of the game. The whole plot will be hidden in the context of the environment through its artistic section or in the specific mentions of some characters. All this contributes to generate a much more credible atmosphere, but also to motivate the interest of the player to investigate on their own in the story, without making a crude exposure.
 
-### Licencia
+### Licence
 MIT License ([Acceso a la licencia](https://github.com/SchizoCat3D/Ampersand/blob/master/LICENSE))
 
 ### Contact
