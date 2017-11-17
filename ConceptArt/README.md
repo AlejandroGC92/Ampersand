@@ -2,6 +2,12 @@
 Mapeo general de los escenarios
 ![alt text](https://github.com/SchizoCat3D/Ampersand/blob/master/ConceptArt/Concept_Mapas.png "Logo Title Text 1")
 
+Plano superior de Asentamiento Corbeta
+![alt text](https://github.com/SchizoCat3D/Ampersand/blob/master/ConceptArt/Concept_AsentamientoCorbeta_05.png "Logo Title Text 1")
+
+Panorama de Asentamiento Corbeta
+![alt text](https://github.com/SchizoCat3D/Ampersand/blob/master/ConceptArt/Concept_AsentamientoCorbeta_04.png "Logo Title Text 1")
+
 ## CONCEPT ART PERSONAJES
 Robot Drom-OS Insomne
 ![alt text](https://github.com/SchizoCat3D/Ampersand/blob/master/ConceptArt/Concept_DromOS_Insomne.png "Logo Title Text 1")
