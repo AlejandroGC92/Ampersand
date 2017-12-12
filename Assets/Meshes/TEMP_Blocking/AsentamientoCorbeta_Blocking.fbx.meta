@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 9570198d2cd6b2f44903df99feaa8abd
+timeCreated: 1511212490
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Asentamiento_Placeholders:Acueducto
+    100002: Asentamiento_Placeholders:Aldea
+    100004: Asentamiento_Placeholders:Aleta
+    100006: Asentamiento_Placeholders:Arandela_1
+    100008: Asentamiento_Placeholders:Arandela_2
+    100010: Asentamiento_Placeholders:Atalaya_1
+    100012: Asentamiento_Placeholders:Atalaya_2
+    100014: Asentamiento_Placeholders:Atalaya_3
+    100016: Asentamiento_Placeholders:Ballena
+    100018: Asentamiento_Placeholders:Bandera
+    100020: Asentamiento_Placeholders:Caza
+    100022: Asentamiento_Placeholders:Contenedor
+    100024: Asentamiento_Placeholders:Corbeta
+    100026: Asentamiento_Placeholders:Edificio_1
+    100028: Asentamiento_Placeholders:Edificio_2
+    100030: Asentamiento_Placeholders:Edificio_3
+    100032: Asentamiento_Placeholders:Edificio_4
+    100034: Asentamiento_Placeholders:Edificio_5
+    100036: Asentamiento_Placeholders:Edificio_6
+    100038: Asentamiento_Placeholders:Edificio_7
+    100040: Asentamiento_Placeholders:Edificio_8
+    100042: Asentamiento_Placeholders:Edificio_9
+    100044: Asentamiento_Placeholders:Enredadera
+    100046: Asentamiento_Placeholders:Escaleras
+    100048: Asentamiento_Placeholders:Globo
+    100050: Asentamiento_Placeholders:Grua
+    100052: Asentamiento_Placeholders:Lampara
+    100054: Asentamiento_Placeholders:Megafono
+    100056: Asentamiento_Placeholders:Molinillo
+    100058: Asentamiento_Placeholders:Mortero
+    100060: Asentamiento_Placeholders:Penyasco
+    100062: Asentamiento_Placeholders:Placa
+    100064: Asentamiento_Placeholders:Placa_Solar
+    100066: Asentamiento_Placeholders:Poste_1
+    100068: Asentamiento_Placeholders:Poste_2
+    100070: Asentamiento_Placeholders:Poste_3
+    100072: Asentamiento_Placeholders:Puente
+    100074: Asentamiento_Placeholders:Ranger
+    100076: Asentamiento_Placeholders:Reactor
+    100078: Asentamiento_Placeholders:Turbina
+    100080: Asentamiento_Placeholders:Valla
+    100082: //RootNode
+    100084: Camera
+    100086: Light
+    400000: Asentamiento_Placeholders:Acueducto
+    400002: Asentamiento_Placeholders:Aldea
+    400004: Asentamiento_Placeholders:Aleta
+    400006: Asentamiento_Placeholders:Arandela_1
+    400008: Asentamiento_Placeholders:Arandela_2
+    400010: Asentamiento_Placeholders:Atalaya_1
+    400012: Asentamiento_Placeholders:Atalaya_2
+    400014: Asentamiento_Placeholders:Atalaya_3
+    400016: Asentamiento_Placeholders:Ballena
+    400018: Asentamiento_Placeholders:Bandera
+    400020: Asentamiento_Placeholders:Caza
+    400022: Asentamiento_Placeholders:Contenedor
+    400024: Asentamiento_Placeholders:Corbeta
+    400026: Asentamiento_Placeholders:Edificio_1
+    400028: Asentamiento_Placeholders:Edificio_2
+    400030: Asentamiento_Placeholders:Edificio_3
+    400032: Asentamiento_Placeholders:Edificio_4
+    400034: Asentamiento_Placeholders:Edificio_5
+    400036: Asentamiento_Placeholders:Edificio_6
+    400038: Asentamiento_Placeholders:Edificio_7
+    400040: Asentamiento_Placeholders:Edificio_8
+    400042: Asentamiento_Placeholders:Edificio_9
+    400044: Asentamiento_Placeholders:Enredadera
+    400046: Asentamiento_Placeholders:Escaleras
+    400048: Asentamiento_Placeholders:Globo
+    400050: Asentamiento_Placeholders:Grua
+    400052: Asentamiento_Placeholders:Lampara
+    400054: Asentamiento_Placeholders:Megafono
+    400056: Asentamiento_Placeholders:Molinillo
+    400058: Asentamiento_Placeholders:Mortero
+    400060: Asentamiento_Placeholders:Penyasco
+    400062: Asentamiento_Placeholders:Placa
+    400064: Asentamiento_Placeholders:Placa_Solar
+    400066: Asentamiento_Placeholders:Poste_1
+    400068: Asentamiento_Placeholders:Poste_2
+    400070: Asentamiento_Placeholders:Poste_3
+    400072: Asentamiento_Placeholders:Puente
+    400074: Asentamiento_Placeholders:Ranger
+    400076: Asentamiento_Placeholders:Reactor
+    400078: Asentamiento_Placeholders:Turbina
+    400080: Asentamiento_Placeholders:Valla
+    400082: //RootNode
+    400084: Camera
+    400086: Light
+    2300000: Asentamiento_Placeholders:Acueducto
+    2300002: Asentamiento_Placeholders:Aldea
+    2300004: Asentamiento_Placeholders:Aleta
+    2300006: Asentamiento_Placeholders:Arandela_1
+    2300008: Asentamiento_Placeholders:Arandela_2
+    2300010: Asentamiento_Placeholders:Atalaya_1
+    2300012: Asentamiento_Placeholders:Atalaya_2
+    2300014: Asentamiento_Placeholders:Atalaya_3
+    2300016: Asentamiento_Placeholders:Ballena
+    2300018: Asentamiento_Placeholders:Bandera
+    2300020: Asentamiento_Placeholders:Caza
+    2300022: Asentamiento_Placeholders:Contenedor
+    2300024: Asentamiento_Placeholders:Corbeta
+    2300026: Asentamiento_Placeholders:Edificio_1
+    2300028: Asentamiento_Placeholders:Edificio_2
+    2300030: Asentamiento_Placeholders:Edificio_3
+    2300032: Asentamiento_Placeholders:Edificio_4
+    2300034: Asentamiento_Placeholders:Edificio_5
+    2300036: Asentamiento_Placeholders:Edificio_6
+    2300038: Asentamiento_Placeholders:Edificio_7
+    2300040: Asentamiento_Placeholders:Edificio_8
+    2300042: Asentamiento_Placeholders:Edificio_9
+    2300044: Asentamiento_Placeholders:Enredadera
+    2300046: Asentamiento_Placeholders:Escaleras
+    2300048: Asentamiento_Placeholders:Globo
+    2300050: Asentamiento_Placeholders:Grua
+    2300052: Asentamiento_Placeholders:Lampara
+    2300054: Asentamiento_Placeholders:Megafono
+    2300056: Asentamiento_Placeholders:Molinillo
+    2300058: Asentamiento_Placeholders:Mortero
+    2300060: Asentamiento_Placeholders:Penyasco
+    2300062: Asentamiento_Placeholders:Placa
+    2300064: Asentamiento_Placeholders:Placa_Solar
+    2300066: Asentamiento_Placeholders:Poste_1
+    2300068: Asentamiento_Placeholders:Poste_2
+    2300070: Asentamiento_Placeholders:Poste_3
+    2300072: Asentamiento_Placeholders:Puente
+    2300074: Asentamiento_Placeholders:Ranger
+    2300076: Asentamiento_Placeholders:Reactor
+    2300078: Asentamiento_Placeholders:Turbina
+    2300080: Asentamiento_Placeholders:Valla
+    3300000: Asentamiento_Placeholders:Acueducto
+    3300002: Asentamiento_Placeholders:Aldea
+    3300004: Asentamiento_Placeholders:Aleta
+    3300006: Asentamiento_Placeholders:Arandela_1
+    3300008: Asentamiento_Placeholders:Arandela_2
+    3300010: Asentamiento_Placeholders:Atalaya_1
+    3300012: Asentamiento_Placeholders:Atalaya_2
+    3300014: Asentamiento_Placeholders:Atalaya_3
+    3300016: Asentamiento_Placeholders:Ballena
+    3300018: Asentamiento_Placeholders:Bandera
+    3300020: Asentamiento_Placeholders:Caza
+    3300022: Asentamiento_Placeholders:Contenedor
+    3300024: Asentamiento_Placeholders:Corbeta
+    3300026: Asentamiento_Placeholders:Edificio_1
+    3300028: Asentamiento_Placeholders:Edificio_2
+    3300030: Asentamiento_Placeholders:Edificio_3
+    3300032: Asentamiento_Placeholders:Edificio_4
+    3300034: Asentamiento_Placeholders:Edificio_5
+    3300036: Asentamiento_Placeholders:Edificio_6
+    3300038: Asentamiento_Placeholders:Edificio_7
+    3300040: Asentamiento_Placeholders:Edificio_8
+    3300042: Asentamiento_Placeholders:Edificio_9
+    3300044: Asentamiento_Placeholders:Enredadera
+    3300046: Asentamiento_Placeholders:Escaleras
+    3300048: Asentamiento_Placeholders:Globo
+    3300050: Asentamiento_Placeholders:Grua
+    3300052: Asentamiento_Placeholders:Lampara
+    3300054: Asentamiento_Placeholders:Megafono
+    3300056: Asentamiento_Placeholders:Molinillo
+    3300058: Asentamiento_Placeholders:Mortero
+    3300060: Asentamiento_Placeholders:Penyasco
+    3300062: Asentamiento_Placeholders:Placa
+    3300064: Asentamiento_Placeholders:Placa_Solar
+    3300066: Asentamiento_Placeholders:Poste_1
+    3300068: Asentamiento_Placeholders:Poste_2
+    3300070: Asentamiento_Placeholders:Poste_3
+    3300072: Asentamiento_Placeholders:Puente
+    3300074: Asentamiento_Placeholders:Ranger
+    3300076: Asentamiento_Placeholders:Reactor
+    3300078: Asentamiento_Placeholders:Turbina
+    3300080: Asentamiento_Placeholders:Valla
+    4300000: Asentamiento_Placeholders:Corbeta
+    4300002: Asentamiento_Placeholders:Edificio_1
+    4300004: Asentamiento_Placeholders:Edificio_2
+    4300006: Asentamiento_Placeholders:Edificio_3
+    4300008: Asentamiento_Placeholders:Edificio_4
+    4300010: Asentamiento_Placeholders:Edificio_5
+    4300012: Asentamiento_Placeholders:Edificio_6
+    4300014: Asentamiento_Placeholders:Edificio_7
+    4300016: Asentamiento_Placeholders:Edificio_8
+    4300018: Asentamiento_Placeholders:Edificio_9
+    4300020: Asentamiento_Placeholders:Turbina
+    4300022: Asentamiento_Placeholders:Aleta
+    4300024: Asentamiento_Placeholders:Arandela_1
+    4300026: Asentamiento_Placeholders:Arandela_2
+    4300028: Asentamiento_Placeholders:Atalaya_1
+    4300030: Asentamiento_Placeholders:Atalaya_2
+    4300032: Asentamiento_Placeholders:Atalaya_3
+    4300034: Asentamiento_Placeholders:Poste_1
+    4300036: Asentamiento_Placeholders:Poste_2
+    4300038: Asentamiento_Placeholders:Poste_3
+    4300040: Asentamiento_Placeholders:Lampara
+    4300042: Asentamiento_Placeholders:Megafono
+    4300044: Asentamiento_Placeholders:Penyasco
+    4300046: Asentamiento_Placeholders:Molinillo
+    4300048: Asentamiento_Placeholders:Puente
+    4300050: Asentamiento_Placeholders:Acueducto
+    4300052: Asentamiento_Placeholders:Aldea
+    4300054: Asentamiento_Placeholders:Escaleras
+    4300056: Asentamiento_Placeholders:Placa_Solar
+    4300058: Asentamiento_Placeholders:Reactor
+    4300060: Asentamiento_Placeholders:Ranger
+    4300062: Asentamiento_Placeholders:Globo
+    4300064: Asentamiento_Placeholders:Mortero
+    4300066: Asentamiento_Placeholders:Caza
+    4300068: Asentamiento_Placeholders:Enredadera
+    4300070: Asentamiento_Placeholders:Placa
+    4300072: Asentamiento_Placeholders:Grua
+    4300074: Asentamiento_Placeholders:Contenedor
+    4300076: Asentamiento_Placeholders:Valla
+    4300078: Asentamiento_Placeholders:Bandera
+    4300080: Asentamiento_Placeholders:Ballena
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aleta_11
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_10
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_13
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_14
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_15
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_16
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_17
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_18
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_19
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_2
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_20
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_21
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_22
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_23
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_24
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_25
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_26
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_27
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_28
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_29
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_3
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_30
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_31
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_32
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_33
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_34
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_35
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_36
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_37
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_38
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_39
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_4
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_40
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_41
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_5
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_6
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_7
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_8
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_9
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fragata
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reactor_10
+    second: {fileID: 2100000, guid: 3e9edd9fd40ea2a469b37442b9ed9fd8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
