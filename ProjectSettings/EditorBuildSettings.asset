@@ -6,5 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AsentamientoCorbeta.unity
+    path: Assets/Scenes/Management/Logo.unity
+    guid: 8327ca48235322440a61646f601d4963
+  - enabled: 1
+    path: Assets/Scenes/Management/Title.unity
+    guid: 0d7a638a4291d734aa9bf58bda92ebc4
+  - enabled: 1
+    path: Assets/Scenes/AsentamientoCorbeta/AsentamientoCorbeta.unity
     guid: a1df3a504abcb28459c4e0e816f817fb
+  - enabled: 1
+    path: Assets/Scenes/Management/Ending_Insomnia.unity
+    guid: 7d51fccdb26c9cc40b4df6ab0cf41e35
+  - enabled: 1
+    path: Assets/Scenes/Management/Ending_Rebelde.unity
+    guid: 88c52aca9844aa845a542672521573d4
+  - enabled: 1
+    path: Assets/Scenes/Management/Ending_Alt1.unity
+    guid: d36cdf0ad77dec64abc7076085088348
+  - enabled: 1
+    path: Assets/Scenes/Management/Ending_Alt2.unity
+    guid: 96eaf868156a7fc408bbf6751a9a885a
+  - enabled: 1
+    path: Assets/Scenes/Management/Credits.unity
+    guid: c225fc55a196ca947904b570082886d0
